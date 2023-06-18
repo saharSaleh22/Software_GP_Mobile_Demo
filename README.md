@@ -1,6 +1,5 @@
 ## healthy Lifestyle mobile application
-## technolgies used 
- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+
 ### Welcome page
 
 ![image](https://github.com/saharSaleh22/Software_GP_Mobile_Demo/assets/78207579/dc37bbf4-f995-4e7e-aa7f-39e5b9250b62)            ![image](https://github.com/saharSaleh22/Software_GP_Mobile_Demo/assets/78207579/18ce6baf-2f4c-496c-86b5-98336ed90f77)
@@ -117,7 +116,8 @@ After he clicked add alarm from the previos page , this show time picker wil app
 ![image](https://github.com/saharSaleh22/Software_GP_Mobile_Demo/assets/78207579/39528715-9167-4ac3-9ce7-49ffde47aa7a)    ![image](https://github.com/saharSaleh22/Software_GP_Mobile_Demo/assets/78207579/dfdf4c6a-8231-437b-bbf4-22106dfc241b)
 
 In this page the user can see his data he entered before , and he can update  his information like address or phone number if he want as you can see in the right page . and will save it after changing .
-
+## technolgies used 
+         <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 ## Demo Link
 -[ mobile app demo link](https://drive.google.com/file/d/1kQPMMYIzGJdvJC_unXYc5jETr0IF80Wd/view?usp=sharing)
 ## Authors
